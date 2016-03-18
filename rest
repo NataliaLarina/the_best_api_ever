@@ -1,0 +1,31 @@
+## rest
+Standard that allows us to work with APIs and othe data sources
+
+*get items
+*get items by ID
+*post to create a new item
+*update an item by an id
+*delete an item by id
+
+we call this
+
+## **CRUD**
+*Create
+*Read
+*Update
+*Destroy
+
+## HTTP Verbs
+
+*GET - a web request that allows us to get smth
+*POST - a web request to send something to POST(like POstal Service)->
+sending smth off
+*PUT or PATCH - a web request designed for updating things
+*DELETE - a web request ..... destroys!!!
+
+##HTTP Status Codes
+
+*404 - Not Found
+*403 - Forbidden(passwords sucks or is wrong)
+*500 - oh code or server broke!!
+*200 - ok, everything is good, loaded
